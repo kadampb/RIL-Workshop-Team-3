@@ -10,7 +10,7 @@ services:
     ports:
     - "3306:3306"
     restart: always
-  crud-mysql-vuejs-2:
+  crud-mysql-vuejs-3:
     IMAGE
     build: .
     ports:
